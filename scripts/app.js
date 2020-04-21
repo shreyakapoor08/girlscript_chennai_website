@@ -26,12 +26,12 @@ let header = $(`
 		</li>
 
 	  </ul>
-	  <center>		
+	  		
 	<label class="switch">		
 	  <input type="checkbox" name="theme" onchange="changeTheme()">		
 	  <span class="slider round"></span>		
 	</label>		
-	</center>
+	
      </div>
 	</nav>`);
 
